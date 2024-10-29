@@ -1,0 +1,5 @@
+1. create LLM
+
+2. Data analytics
+
+3. Chatbot
